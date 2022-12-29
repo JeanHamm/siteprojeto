@@ -19,6 +19,7 @@ body{
 .cb1{
     background-image: linear-gradient(0deg, #1A5C38, #3CD781 );
     color: white;
+    margin: auto;
 }
 #t1{
     text-align: center;
